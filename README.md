@@ -50,7 +50,6 @@ database is the single local source for the feed and persisted decisions.
 - Retrofit with Gson
 - Coil for profile images
 - Kotlin Coroutines and Flow
-- WorkManager
 
 ## Run locally
 
